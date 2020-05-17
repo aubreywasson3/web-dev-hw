@@ -9,4 +9,4 @@ So far I have learned that there is so much more to a website than I had origina
 
 [My responses file](./responses.txt)
 
-![My Screenshot](./images.screenshot.JPG)
+![My Screenshot](./images.screenshot.jpg)
