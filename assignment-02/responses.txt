@@ -6,4 +6,4 @@ The relationship between an IP address and DNS are they both are assigned to a s
 
 A cookie is a small piece of data sent from a website and stored on the users computer by the users web browser while they are browsing.
 
-Three basic parts of a URL are the protocol, domain, and subdomain. 
+Three basic parts of a URL are the protocol, domain, and subdomain.
