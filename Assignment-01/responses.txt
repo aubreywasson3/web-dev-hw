@@ -1,0 +1,6 @@
+The web is different than the internet because the internet is made up of a global network of networks and the web is a collection of information that is accessed through or via the internet. 
+The internet is made up of a large number of independently operated networks. It is distributed by individual operators. It is made up of a massive network of specialized computers also called routers. Each router's job is to know how to move packets along from their source to their destination.  
+What is a directory, and what is its relationship to files? A directory is an organizational unit or container that is used to organize folders and files. A directory contains information about files. "Directories are hierarchical - that is, they are organized in a structure resembling a tree, with a single root which branches off into related groups of content."
+Why is using a VCS beneficial? Using a VCS is beneficial because it allows developers to move faster and allows software teams to preserve efficiency as the team includes more developers.  
+Take a screenshot anytime while working on your homework.
+Rename this screenshot using proper naming conventions, and upload it to your assignment-01 directory.
