@@ -1,0 +1,9 @@
+Aubrey Wasson
+
+One way data travels the internet is in "packets". These packets will travel from one machine to another until they reach their destination.
+
+The relationship between an IP address and DNS are they both are assigned to a server. An IP address is an adress assigned to any computer so that it can be identified on a network, while a DNS is a domain name service that converts alphabetical references into a servers IP.
+
+A cookie is a small piece of data sent from a website and stored on the users computer by the users web browser while they are browsing.
+
+Three basic parts of a URL are the protocol, domain, and subdomain.
