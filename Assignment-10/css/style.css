@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Pacifico&display=swap');
+/* Page-Wide */
+body {
+  text-align: center;}
+  p {
+    width: 1350px;
+    padding: 50px;
+    border: 20px solid RGB(162, 184, 171);}
+    {
+  background-color: RGB(162, 184, 171) ;
+  color:black;
+  padding: 7px;
+  font-family: 'Dancing Script', 'cursive';
+}
+
+}
+/* Paragraph Content */
+.text {
+  background-color: #FFFFFF
+  color: #FFFFFF
+padding: 7px;
+}
+
+/* "Read More" Link */
+a{
+  background-color: White;
+  color: black;
+  padding: 9px;
+}
+a:hover {
+  font-style:oblique;
+  background-color: grey;
+}
